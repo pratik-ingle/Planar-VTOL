@@ -7,7 +7,7 @@ plt.ion()  # enable interactive drawing
 
 class dataPlotter:
     ''' 
-        This class plots the time histories for the pendulum data.
+        This class plots the time histories for the vtol data.
     '''
 
     def __init__(self):
